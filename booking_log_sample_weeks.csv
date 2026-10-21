@@ -1,0 +1,159 @@
+year,quarter,sample_week,day,booking,start,end
+Year 1,Fall,Wk 5 (Wk 4 summer),Mon,Course 1 (grad proseminar),09:00,11:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Mon,Committee meeting,12:00,13:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 1,Fall,Wk 5 (Wk 4 summer),Tue,Lab B,12:00,14:00
+Year 1,Fall,Wk 5 (Wk 4 summer),Tue,Lab C,15:00,16:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Tue,Individual meeting,17:00,18:00
+Year 1,Fall,Wk 5 (Wk 4 summer),Wed,Course 1 (grad proseminar),09:00,11:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Wed,Brownbag series,12:00,13:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Wed,Lab D,14:00,15:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Wed,Faculty meeting,15:30,18:00
+Year 1,Fall,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:30
+Year 1,Fall,Wk 5 (Wk 4 summer),Fri,Lab F,09:00,11:00
+Year 1,Fall,Wk 5 (Wk 4 summer),Fri,Intro course staff meeting,12:00,13:00
+Year 1,Fall,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:00,17:00
+Year 1,Winter,Wk 5 (Wk 4 summer),Mon,Course 2 (seminar),13:30,14:50
+Year 1,Winter,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 1,Winter,Wk 5 (Wk 4 summer),Tue,Lab G,12:00,14:00
+Year 1,Winter,Wk 5 (Wk 4 summer),Tue,Lab C,15:00,16:30
+Year 1,Winter,Wk 5 (Wk 4 summer),Tue,Individual meeting,17:00,18:00
+Year 1,Winter,Wk 5 (Wk 4 summer),Wed,Lab B,10:00,12:00
+Year 1,Winter,Wk 5 (Wk 4 summer),Wed,Course 2 (seminar),13:30,14:50
+Year 1,Winter,Wk 5 (Wk 4 summer),Thu,Intro course section,09:30,10:30
+Year 1,Winter,Wk 5 (Wk 4 summer),Thu,Intro course section,10:30,11:30
+Year 1,Winter,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 1,Winter,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:30
+Year 1,Winter,Wk 5 (Wk 4 summer),Fri,Intro course staff meeting,11:30,13:00
+Year 1,Winter,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:00,17:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Mon,Lab B,14:00,15:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Tue,Lab G,12:00,14:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Tue,Lab C,15:00,16:30
+Year 1,Spring,Wk 5 (Wk 4 summer),Tue,Individual meeting,17:00,18:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Tue,Course 3 (evening film screening),18:00,20:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Wed,Brownbag series,12:00,13:15
+Year 1,Spring,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 1,Spring,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:30
+Year 1,Spring,Wk 5 (Wk 4 summer),Thu,Lab H,16:00,17:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Fri,Intro course staff meeting,11:30,13:00
+Year 1,Spring,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:00,17:00
+Year 1,Summer,Wk 5 (Wk 4 summer),Mon,Lab I,13:00,14:30
+Year 1,Summer,Wk 5 (Wk 4 summer),Tue,Lab G,12:00,14:00
+Year 1,Summer,Wk 5 (Wk 4 summer),Wed,Lab D,11:00,14:00
+Year 1,Summer,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 1,Summer,Wk 5 (Wk 4 summer),Thu,Summer program,16:00,17:00
+Year 2,Fall,Wk 5 (Wk 4 summer),Mon,Intro course coffee chat,08:30,10:30
+Year 2,Fall,Wk 5 (Wk 4 summer),Mon,Lab F,12:00,13:30
+Year 2,Fall,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 2,Fall,Wk 5 (Wk 4 summer),Tue,Course 1 (grad proseminar),09:00,12:30
+Year 2,Fall,Wk 5 (Wk 4 summer),Tue,Lab B,13:00,15:00
+Year 2,Fall,Wk 5 (Wk 4 summer),Tue,Lab C,15:00,16:30
+Year 2,Fall,Wk 5 (Wk 4 summer),Wed,Brownbag series,12:00,13:15
+Year 2,Fall,Wk 5 (Wk 4 summer),Thu,Course 1 (grad proseminar),09:00,12:30
+Year 2,Fall,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 2,Fall,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:00
+Year 2,Fall,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:00,17:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Mon,Faculty meeting,12:00,13:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Mon,Course 2 (seminar),13:30,14:50
+Year 2,Winter,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Tue,Lab F,11:00,13:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Tue,Committee meeting,12:00,13:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Tue,Lab B,13:00,15:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Tue,Lab C,15:00,17:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Wed,Intro course section,09:30,10:20
+Year 2,Winter,Wk 5 (Wk 4 summer),Wed,Brownbag series,12:00,13:15
+Year 2,Winter,Wk 5 (Wk 4 summer),Wed,Course 2 (seminar),13:30,14:50
+Year 2,Winter,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 2,Winter,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Fri,Lab J,13:00,15:00
+Year 2,Winter,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:00,17:00
+Year 2,Spring,Wk 5 (Wk 4 summer),Mon,Faculty meeting,12:00,13:00
+Year 2,Spring,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 2,Spring,Wk 5 (Wk 4 summer),Tue,Lab B,13:00,15:00
+Year 2,Spring,Wk 5 (Wk 4 summer),Tue,Lab C,15:00,16:30
+Year 2,Spring,Wk 5 (Wk 4 summer),Wed,Individual meeting,11:00,12:00
+Year 2,Spring,Wk 5 (Wk 4 summer),Wed,Brownbag series,12:00,13:15
+Year 2,Spring,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 2,Spring,Wk 5 (Wk 4 summer),Thu,Lab D,13:30,15:00
+Year 2,Spring,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:00
+Year 2,Spring,Wk 5 (Wk 4 summer),Fri,Lab F,09:00,11:30
+Year 2,Spring,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:00,17:00
+Year 2,Summer,Wk 5 (Wk 4 summer),Mon,Summer program,12:00,13:00
+Year 2,Summer,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 2,Summer,Wk 5 (Wk 4 summer),Tue,Individual meeting,10:30,12:00
+Year 2,Summer,Wk 5 (Wk 4 summer),Tue,Lab G,12:00,14:00
+Year 2,Summer,Wk 5 (Wk 4 summer),Wed,Workshop,15:30,18:30
+Year 2,Summer,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:30
+Year 2,Summer,Wk 5 (Wk 4 summer),Thu,Lab K,14:00,15:30
+Year 2,Summer,Wk 5 (Wk 4 summer),Fri,Lab F,09:00,11:30
+Year 2,Summer,Wk 5 (Wk 4 summer),Fri,Lab J,12:00,14:00
+Year 2,Summer,Wk 5 (Wk 4 summer),Fri,Journal club,14:30,16:00
+Year 3,Fall,Wk 5 (Wk 4 summer),Mon,Lab A,10:00,11:30
+Year 3,Fall,Wk 5 (Wk 4 summer),Mon,Open Q&A session,11:45,13:30
+Year 3,Fall,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 3,Fall,Wk 5 (Wk 4 summer),Tue,Lab B,13:00,15:30
+Year 3,Fall,Wk 5 (Wk 4 summer),Wed,Lab D,12:00,13:30
+Year 3,Fall,Wk 5 (Wk 4 summer),Wed,Faculty meeting,15:30,17:00
+Year 3,Fall,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:40
+Year 3,Fall,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:00
+Year 3,Fall,Wk 5 (Wk 4 summer),Fri,Lab F,09:00,11:30
+Year 3,Fall,Wk 5 (Wk 4 summer),Fri,Intro course staff meeting,12:00,13:00
+Year 3,Fall,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:30,17:00
+Year 3,Winter,Wk 5 (Wk 4 summer),Mon,Lab L,09:00,10:30
+Year 3,Winter,Wk 5 (Wk 4 summer),Mon,Faculty meeting,11:45,13:30
+Year 3,Winter,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 3,Winter,Wk 5 (Wk 4 summer),Tue,Lab M,11:30,13:00
+Year 3,Winter,Wk 5 (Wk 4 summer),Tue,Lab B,13:00,15:30
+Year 3,Winter,Wk 5 (Wk 4 summer),Wed,Lab D,12:00,13:30
+Year 3,Winter,Wk 5 (Wk 4 summer),Wed,Faculty meeting,15:30,17:00
+Year 3,Winter,Wk 5 (Wk 4 summer),Thu,Lab E,12:00,13:40
+Year 3,Winter,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:00
+Year 3,Winter,Wk 5 (Wk 4 summer),Fri,Lab F,09:00,11:30
+Year 3,Winter,Wk 5 (Wk 4 summer),Fri,Intro course staff meeting,12:00,13:30
+Year 3,Winter,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:30,17:00
+Year 3,Spring,Wk 5 (Wk 4 summer),Mon,Lab L,09:00,10:30
+Year 3,Spring,Wk 5 (Wk 4 summer),Mon,Lab A,15:30,17:00
+Year 3,Spring,Wk 5 (Wk 4 summer),Tue,Lab M,11:30,13:00
+Year 3,Spring,Wk 5 (Wk 4 summer),Tue,Lab B,13:00,15:30
+Year 3,Spring,Wk 5 (Wk 4 summer),Wed,Intro course coffee chat,08:30,10:30
+Year 3,Spring,Wk 5 (Wk 4 summer),Wed,Lab H,12:00,14:30
+Year 3,Spring,Wk 5 (Wk 4 summer),Wed,Faculty meeting,15:30,17:00
+Year 3,Spring,Wk 5 (Wk 4 summer),Thu,Dissertation defense,14:00,16:30
+Year 3,Spring,Wk 5 (Wk 4 summer),Thu,Seminar series A,15:00,16:00
+Year 3,Spring,Wk 5 (Wk 4 summer),Fri,Lab F,09:00,11:30
+Year 3,Spring,Wk 5 (Wk 4 summer),Fri,Intro course staff meeting,12:00,13:30
+Year 3,Spring,Wk 5 (Wk 4 summer),Fri,Seminar series B,15:30,17:00
+Year 3,Summer,Wk 5 (Wk 4 summer),Mon,Lab N,11:30,12:30
+Year 3,Summer,Wk 5 (Wk 4 summer),Tue,Lab M,11:00,13:30
+Year 3,Summer,Wk 5 (Wk 4 summer),Wed,Individual meeting,09:30,11:00
+Year 3,Summer,Wk 5 (Wk 4 summer),Wed,Workshop,15:30,17:00
+Year 3,Summer,Wk 5 (Wk 4 summer),Fri,Lab F,09:00,11:30
+Year 4,Fall,Wk 1,Mon,Faculty meeting,12:00,13:30
+Year 4,Fall,Wk 1,Mon,Lab A,15:30,17:00
+Year 4,Fall,Wk 1,Tue,Lab O,12:00,14:00
+Year 4,Fall,Wk 1,Tue,Lab C,15:00,17:00
+Year 4,Fall,Wk 1,Wed,Lab B,13:00,15:00
+Year 4,Fall,Wk 1,Thu,Lab E,11:30,13:30
+Year 4,Fall,Wk 1,Thu,Seminar series A,15:00,16:00
+Year 4,Fall,Wk 1,Fri,Lab F,09:00,11:30
+Year 4,Fall,Wk 1,Fri,Intro course staff meeting,12:15,13:15
+Year 4,Fall,Wk 2,Mon,Faculty meeting,12:00,13:30
+Year 4,Fall,Wk 2,Mon,Lab A,15:30,17:00
+Year 4,Fall,Wk 2,Tue,Lab O,12:00,14:00
+Year 4,Fall,Wk 2,Tue,Lab C,15:00,17:00
+Year 4,Fall,Wk 2,Wed,Lab B,13:00,15:00
+Year 4,Fall,Wk 2,Thu,Lab E,11:30,13:30
+Year 4,Fall,Wk 2,Thu,Seminar series A,15:00,16:00
+Year 4,Fall,Wk 2,Fri,Lab F,09:00,11:30
+Year 4,Fall,Wk 2,Fri,Intro course staff meeting,12:15,14:15
+Year 4,Fall,Wk 4,Mon,Faculty meeting,12:00,13:30
+Year 4,Fall,Wk 4,Mon,Lab A,15:30,17:00
+Year 4,Fall,Wk 4,Tue,Lab O,12:00,14:00
+Year 4,Fall,Wk 4,Tue,Lab C,15:00,17:00
+Year 4,Fall,Wk 4,Wed,Lab B,13:00,15:00
+Year 4,Fall,Wk 4,Thu,Lab E,11:30,13:30
+Year 4,Fall,Wk 4,Thu,Seminar series A,15:00,16:00
+Year 4,Fall,Wk 4,Fri,Lab F,09:00,11:30
+Year 4,Fall,Wk 4,Fri,Intro course staff meeting,12:15,13:15

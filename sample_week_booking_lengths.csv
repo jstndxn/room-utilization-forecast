@@ -1,0 +1,13 @@
+year,quarter,bookings_in_sample,hours_in_sample
+Year 1,Fall,15,26
+Year 1,Winter,13,19.17
+Year 1,Spring,12,17.75
+Year 1,Summer,5,9
+Year 2,Fall,11,21.25
+Year 2,Winter,14,20.75
+Year 2,Spring,11,16.75
+Year 2,Summer,10,18
+Year 3,Fall,11,17.92
+Year 3,Winter,12,19.92
+Year 3,Spring,12,22
+Year 3,Summer,5,9
